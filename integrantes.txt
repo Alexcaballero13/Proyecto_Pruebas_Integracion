@@ -1,4 +1,4 @@
 Integrantes del equipo - Proyecto Pruebas de Integración
 =========================================================
-Nombre: [Completar con nombre del estudiante]
-Correo institucional: [correo]@unisabana.edu.co
+Nombre: Alexander Caballero Garcia
+Correo institucional: alexcabga@unisabana.edu.co
